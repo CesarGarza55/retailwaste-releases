@@ -1,0 +1,14 @@
+{
+  "name": "RetailWaste Repository",
+  "identifier": "com.codevbox.retailwaste",
+  "apps": [
+    {
+      "name": "RetailWaste",
+      "bundleIdentifier": "com.codevbox.retailwaste",
+      "developerName": "CodevBox",
+      "iconURL": "https://raw.githubusercontent.com/CesarGarza55/retailwaste-releases/main/icons/retailwaste.png",
+      "localizedDescription": "Manejo de merma en tiendas de walmart, permitiendo a los empleados registrar y gestionar la merma de productos de manera eficiente con análisis de datos y reportes detallados.",
+      "versions": []
+    }
+  ]
+}
