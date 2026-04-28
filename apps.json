@@ -10,6 +10,13 @@
       "localizedDescription": "Manejo de merma en tiendas de walmart, permitiendo a los empleados registrar y gestionar la merma de productos de manera eficiente con análisis de datos y reportes detallados.",
       "versions": [
         {
+          "version": "1.0.1",
+          "buildVersion": "2",
+          "date": "2026-04-28",
+          "downloadURL": "https://github.com/CesarGarza55/retailwaste-releases/releases/download/v2/RetailWaste.ipa",
+          "size": 13057637
+        },
+        {
           "version": "1.0.0",
           "buildVersion": "1",
           "date": "2026-04-27",
